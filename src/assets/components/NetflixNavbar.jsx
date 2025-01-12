@@ -11,7 +11,7 @@ function NetflixNavbar() {
       <Container fluid>
         <Navbar.Brand href="#">
           <img
-            src="public/assets/logo.png"
+            src="assets/logo.png"
             alt="Logo"
             style={{ width: "100px", height: "55px" }}
           />

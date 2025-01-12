@@ -6,7 +6,7 @@ const TvShow = function () {
       <div className="d-flex justify-content-between">
         <div className="d-flex">
           <h2 className="mb-4 text-white">TV Shows</h2>
-          <Dropdown as={ButtonGroup} className="ms-4 mt-1">
+          <Dropdown as={ButtonGroup} className="ms-4">
             <Dropdown.Toggle
               variant="secondary"
               size="sm"
